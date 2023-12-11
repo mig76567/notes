@@ -1,0 +1,89 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 1.4rem;
+	background: whitesmoke;
+	margin: 0;
+	padding: 1rem;
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+}
+
+ol {
+	list-style-position: inside;
+	width: 600px;
+	max-width: 100%;
+	background: white;
+	box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+	padding: 0;
+	margin: 10;
+	border-radius: 0.1rem;
+}
+.rov {
+	background-color: #e43905;
+}
+.rus {
+	background-color: #fd54a3;
+}
+.eng {
+	background-color: #31149b;
+}
+.inf {
+	background-color: #2493dd;
+}
+.phtr {
+	background-color: #bac42e;
+}
+.geom {
+	background-color: #7568ad;
+}
+.alg {
+	background-color: #40c42e;
+}
+.phisic p {
+	background-color: #20a8dd;
+}
+.phisic {
+	background-color: #47cf80;
+}
+.his {
+	background-color: #500443;
+}
+.stat {
+	background-color: #aa5243;
+}
+.lit {
+	background-color: #853cca;
+}
+.chim {
+	background-color: #3ccaca;
+}
+.eng{
+	background-color: #7baa3e;
+}
+.mxk{
+	background-color: #a63eaa;
+}
+.geo{
+	background-color: #5d9edb;
+}
+.obj{
+	background-color: #fffd79;
+}
+.bio{
+	background-color: #79ff8b;
+}
+.soc{
+	background-color: #7a79c5;
+}
+.PE{
+	background-color: #fc049d;
+}
+li {
+	padding: 0 0 0 1rem;
+	border-bottom: 1px solid lightblue;
+}
